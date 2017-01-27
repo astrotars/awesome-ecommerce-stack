@@ -5,6 +5,9 @@ Most popular tools from the 10,000+ top e-commerce stores. 💰
 
 * [Hootsweet](https://hootsuite.com)
 * [Tweetdeck](https://tweetdeck.com)
+* [Buffer](https://buffer.com)
+* [Bit.ly](https://bit.ly)
+* [SproutSocial](http://sproutsocial.com)
 
 ## Email Marketing
 
