@@ -3,8 +3,8 @@ Most popular tools from the 10,000+ top e-commerce stores. 💰
 
 ## Social Media
 
-* (https://hootsuite.com)[Hootsweet]
-* (https://tweetdeck.com)[Tweetdeck]
+* [Hootsweet](https://hootsuite.com)
+* [Tweetdeck](https://tweetdeck.com)
 
 ## Email Marketing
 
