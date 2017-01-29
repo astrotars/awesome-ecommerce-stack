@@ -61,11 +61,32 @@ Most popular tools from the 10,000+ top e-commerce stores. 💰
 
 ## Instagram
 
+* [Liketoknow.it](https://liketoknow.it/?ref=nickparsons.io)
+* [IconoSquare](https://pro.iconosquare.com/?ref=nickparsons.io)
+* [Link Big](http://www.link-big.com/?ref=nickparsons.io)
+* [Buffer](https://buffer.com/?ref=nickparsons.io)
+
 ## Facebook
+
+* [Qwaya](http://www.qwaya.com/?ref=nickparsons.io)
+* [Shoutlet](http://www.spredfast.com/?ref=nickparsons.io)
+* [SocialApps HQ](http://www.socialappshq.com/?ref=nickparsons.io)
+* [Crowdfire](https://crowdfireapp.com/?ref=nickparsons.io)
+* [Buffer](https://buffer.com/?ref=nickparsons.io)
 
 ## Pinterest
 
+* [Tailwind](https://www.tailwindapp.com/?ref=nickparsons.io)
+* [Olapic](https://www.olapic.com/?ref=nickparsons.io)
+* [Curalate](http://www.curalate.com/?ref=nickparsons.io)
+
 ## Twitter
+
+* [Ritetag](https://ritetag.com/?ref=nickparsons.io)
+* [Tagboard](https://tagboard.com/?ref=nickparsons.io)
+* [Trendsmap](https://www.trendsmap.com/?ref=nickparsons.io)
+* [Crowdfire](https://crowdfireapp.com/?ref=nickparsons.io)
+* [Buffer](https://buffer.com/?ref=nickparsons.io)
 
 ## User Reviews
 
@@ -91,6 +112,17 @@ Most popular tools from the 10,000+ top e-commerce stores. 💰
 
 ## Blogs
 
+* [Unbounce](https://unbounce.com/blog/?ref=nickparsons.io)
+* [Backlinko](https://backlinko.com/?ref=nickparsons.io)
+* [Convince and Convert](https://www.convinceandconvert.com/?ref=nickparsons.io)
+* [ConversionXL](https://conversionxl.com/blog/?ref=nickparsons.io)
+
 ## Content Marketing
 
+* [Feedly](https://feedly.com/?ref=nickparsons.io)
+* [Scoop.it](https://www.scoop.it/?ref=nickparsons.io)
+* [Contentmarketer](https://contentmarketer.io/?ref=nickparsons.io)
+
 ## Referrals
+
+* [ReferralCandy](https://www.referralcandy.com/?ref=nickparsons.io)
