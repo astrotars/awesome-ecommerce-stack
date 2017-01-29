@@ -1,4 +1,4 @@
-# E-commerce Stack
+# Awesome E-commerce Stack
 
 Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores. 💰
 
