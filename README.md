@@ -107,11 +107,51 @@ If you would like to contribute to this growing list, please submit a pull reque
 
 ## Competitive & User Research
 
+* [Survey Monkey](https://www.surveymonkey.com/?ref=nickparsons.io)
+* [Alexa Traffic Rank Toolbar](https://www.alexa.com/toolbar?ref=nickparsons.io)
+* [MozBar](https://moz.com/tools/seo-toolbar?ref=nickparsons.io)
+* [SimilarWeb](https://www.similarweb.com/?ref=nickparsons.io)
+* [StaySavy](https://staysavy.com/?ref=nickparsons.io)
+* [Google Alerts](https://www.google.com/alerts?ref=nickparsons.io)
+* [TalkWalker](httpss://www.talkwalker.com/?ref=nickparsons.io)
+* [Newsblur](https://www.newsblur.com/?ref=nickparsons.io)
+* [Keyhole.co](https://keyhole.co/?ref=nickparsons.io)
+* [User Report](https://www.userreport.com/?ref=nickparsons.io)
+
 ## Analytics
+
+* [Google Analytics](https://www.google.com/analytics/?ref=nickparsons.io)
+* [Adobe Marketing Cloud](https://www.adobe.com/ca/marketing-cloud.html?ref=nickparsons.io)
+* [Kissmetrics](https://www.kissmetrics.com/?ref=nickparsons.io)
+* [Optimizely](https://www.optimizely.com/?ref=nickparsons.io)
+* [Moz](https://moz.com/products?ref=nickparsons.io)
+* [AHrefs](https://ahrefs.com/?ref=nickparsons.io)
+* [Segment](https://segment.com/?ref=nickparsons.io)
+* [Heap Analytics](https://heapanalytics.com/?ref=nickparsons.io)
+* [Full Story](https://www.fullstory.com/?ref=nickparsons.io)
+* [Google URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/ref=ncikparsons.io)
 
 ## E-commerce Platforms
 
+* [Shopify](https://www.shopify.com/?ref=nickparsons.io)
+* [BigCommerce](https://www.bigcommerce.com/?ref=nickparsons.io)
+* [Big Cartel](https://bigcartel.com/?ref=nickparsons.io)
+* [Squarespace](https://www.squarespace.com/?ref=nickparsons.io)
+* [Magento](https://www.magento.com/?ref=nickparsons.io)
+* [WooCommerce](https://www.woothemes.com/woocommerce/?ref=nickparsons.io)
+* [Gumroad](https://gumroad.com/?ref=nickparsons.io)
+* [Storenvy](https://www.storenvy.com/?ref=nickparsons.io)
+* [SendOwl](https://www.sendowl.com/?ref=nickparsons.io)
+* [Cratejoy](https://www.cratejoy.com/?ref=nickparsons.io)
+* [Celery](https://www.trycelery.com/?ref=nickparsons.io)
+* [3dcart](https://www.3dcart.com/?ref=nickparsons.io)
+
 ## Mobile Experience
+
+* [Shopgate](https://www.shopgate.com/?ref=nickparsons.io)
+* [Zuznow](https://www.zuznow.com/?ref=nickparsons.io)
+* [MobiCart](https://www.mobi-cart.com/?ref=nickparsons.io)
+* [Localz](https://localz.com/?ref=nickparsons.io)
 
 ## Freelance
 
@@ -119,7 +159,13 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Upwork](https://www.upwork.com/?ref=nickparsons.io)
 * [Nick Parsons](https://nickparsons.io/?ref=nickparsons.io)
 
-## Website Optimization
+## Website Optimization & SSL
+
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?ref=nickparsons.io)
+* [Comodo](https://www.comodo.com/?ref=nickparsons.io)
+* [Cloudflare](https://cloudflare.com/?ref=nickparsons.io)
+* [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/?ref=nickparsons.io)
+
 
 ## SEO
 
@@ -131,9 +177,27 @@ If you would like to contribute to this growing list, please submit a pull reque
 
 ## Design
 
+* [Canva](https://www.canva.com/?ref=nickparsons.io)
+* [Pexels](https://www.pexels.com/?ref=nickparsons.io)
+* [Sketch App Resources](http://www.sketchappsources.com/?ref=nickparsons.io)
+* [Sketch](https://www.sketchapp.com/?ref=nickparsons.io)
+* [Code My UI](https://codemyui.com/?ref=nickparsons.io)
+* [Beautiful Stores](https://beautifulstores.com/?ref=nickparsons.io)
+
 ## Fulfillment
 
+* [ShipStation](https://app.shipstation.com/?ref=nickparsons.io)
+* [Shipping Easy](https://shippingeasy.com/?ref=nickparsons.io)
+* [Shippo](https://goshippo.com/?ref=nickparsons.io)
+* [ShipWorks](https://www.shipworks.com/?ref=nickparsons.io)
+* [Shipwire](https://www.shipwire.com/?ref=nickparsons.io)
+* [ShipLark](https://www.shiplark.com/?ref=nickparsons.io)
+
 ## Checkout Optimization
+
+* [BuzzSumo](https://buzzsumo.com/?ref=nickparsons.io)
+* [Square Up](https://www.squareup.com/?ref=nickparsons.io)
+* [SumoMe](https://sumome.com/?ref=nickparsons.io)
 
 ## Blogs
 
