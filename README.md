@@ -19,6 +19,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 
 ## Email Marketing
 
+* [SendGrid](https://sendgrid.com/?ref=nickparsons.io)
 * [MailChimp](https://mailchimp.com/?ref=nickparsons.io)
 * [Campaign Monitor](https://www.campaignmonitor.com/?ref=nickparsons.io)
 * [Bronto](https://bronto.com/?ref=nickparsons.io)
