@@ -54,6 +54,12 @@ If you would like to contribute to this growing list, please submit a pull reque
 
 ## Product Visibility
 
+* [Fits.me](https://www.fits.me/?ref=nickparsons.io)
+* [Idomoo](https://idomoo.com/?ref=nickparsons.io)
+* [Webyclip](https://www.webyclip.com/?ref=nickparsons.io)
+* [Sirv](https://www.sirv.com/?ref=nickparsons.io)
+* [3dbin](https://www.3dbin.com/?ref=nickparsons.io)
+
 ## Billing
 
 * [Stripe](https://stripe.com/?ref=nickparsons.io)
@@ -92,6 +98,12 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Buffer](https://buffer.com/?ref=nickparsons.io)
 
 ## User Reviews
+
+* [PowerReviews](https://www.powerreviews.com/?ref=nickparsons.io)
+* [Yotpo](https://www.yotpo.com/?ref=nickparsons.io)
+* [Google My Business](https://www.google.com/business/?ref=nickparsons.io)
+* [eRated](https://www.erated.co/?ref=nickparsons.io)
+* [TurnTo)(https://www.turntonetworks.com/?ref=nickparsons.io)
 
 ## Competitive & User Research
 
