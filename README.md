@@ -114,7 +114,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [SimilarWeb](https://www.similarweb.com/?ref=nickparsons.io)
 * [StaySavy](https://staysavy.com/?ref=nickparsons.io)
 * [Google Alerts](https://www.google.com/alerts?ref=nickparsons.io)
-* [TalkWalker](httpss://www.talkwalker.com/?ref=nickparsons.io)
+* [TalkWalker](https://www.talkwalker.com/?ref=nickparsons.io)
 * [Newsblur](https://www.newsblur.com/?ref=nickparsons.io)
 * [Keyhole.co](https://keyhole.co/?ref=nickparsons.io)
 * [User Report](https://www.userreport.com/?ref=nickparsons.io)
