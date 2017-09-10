@@ -174,6 +174,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Open Site Explorer](https://moz.com/researchtools/ose/?ref=nickparsons.io)
 * [SEMRush](https://www.semrush.com/?ref=nickparsons.io)
 * [SEO Site Cleanup](https://seositecheckup.com/?ref=nickparsons.io)
+* [Seomator](https://seomator.com/?ref=nickparsons.io)
 * [Google Keyword Planner](https://adwords.google.com/KeywordPlanner?ref=nickparsons.io)
 
 ## Design
