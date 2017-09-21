@@ -52,6 +52,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Google AdWords](https://adwords.google.com/?ref=nickparsons.io)
 * [Facebook Ads](https://www.facebook.com/business/?ref=nickparsons.io)
 * [Adroll](https://www.adroll.com/?ref=nickparsons.io)
+* [Instagram Ads](https://business.instagram.com/advertising)
 
 ## Product Visibility
 
@@ -217,3 +218,6 @@ If you would like to contribute to this growing list, please submit a pull reque
 ## Referrals
 
 * [ReferralCandy](https://www.referralcandy.com/?ref=nickparsons.io)
+- [Google Products](https://developers.google.com/search/docs/data-types/products)
+- [Channable](https://www.channable.com/)
+
