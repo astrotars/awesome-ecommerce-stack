@@ -52,6 +52,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Google AdWords](https://adwords.google.com/?ref=nickparsons.io)
 * [Facebook Ads](https://www.facebook.com/business/?ref=nickparsons.io)
 * [Adroll](https://www.adroll.com/?ref=nickparsons.io)
+* [Instagram Ads](https://business.instagram.com/advertising)
 
 ## Product Visibility
 
@@ -60,6 +61,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Webyclip](https://www.webyclip.com/?ref=nickparsons.io)
 * [Sirv](https://www.sirv.com/?ref=nickparsons.io)
 * [3dbin](https://www.3dbin.com/?ref=nickparsons.io)
+* [Google Products](https://developers.google.com/search/docs/data-types/products)
 
 ## Billing
 
@@ -167,7 +169,6 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Cloudflare](https://cloudflare.com/?ref=nickparsons.io)
 * [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/?ref=nickparsons.io)
 
-
 ## SEO
 
 * [Google Trends](https://www.google.com/trends/?ref=nickparsons.io)
@@ -176,6 +177,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [SEO Site Cleanup](https://seositecheckup.com/?ref=nickparsons.io)
 * [Seomator](https://seomator.com/?ref=nickparsons.io)
 * [Google Keyword Planner](https://adwords.google.com/KeywordPlanner?ref=nickparsons.io)
+* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 
 ## Design
 
@@ -217,3 +219,5 @@ If you would like to contribute to this growing list, please submit a pull reque
 ## Referrals
 
 * [ReferralCandy](https://www.referralcandy.com/?ref=nickparsons.io)
+- [Channable](https://www.channable.com/)
+
