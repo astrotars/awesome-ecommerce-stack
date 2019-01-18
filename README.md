@@ -220,8 +220,3 @@ If you would like to contribute to this growing list, please submit a PR.
 
 * [ReferralCandy](https://www.referralcandy.com/)
 - [Channable](https://www.channable.com/)
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/badges/shields/graphs/contributors"><img src="https://opencollective.com/shields/contributors.svg?width=890" /></a>
