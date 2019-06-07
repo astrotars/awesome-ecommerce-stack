@@ -148,6 +148,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Cratejoy](https://www.cratejoy.com/)
 * [Celery](https://www.trycelery.com/)
 * [3dcart](https://www.3dcart.com/)
+* [Snipcart](https://snipcart.com/)
 
 ## Mobile Experience
 
