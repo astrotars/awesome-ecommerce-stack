@@ -106,7 +106,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Yotpo](https://www.yotpo.com/)
 * [Google My Business](https://www.google.com/business/)
 * [eRated](https://www.erated.co/)
-* [TurnTo)(https://www.turntonetworks.com/)
+* [TurnTo](https://www.turntonetworks.com/)
 
 ## Competitive & User Research
 
