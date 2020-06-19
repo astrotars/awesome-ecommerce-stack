@@ -62,6 +62,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Sirv](https://www.sirv.com/)
 * [3dbin](https://www.3dbin.com/)
 * [Google Products](https://developers.google.com/search/docs/data-types/products)
+* [aShop](https://ashop.co)
 
 ## Billing
 
@@ -135,6 +136,8 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Full Story](https://www.fullstory.com/)
 * [Google URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/ref=ncikparsons.io)
 * [LiveSession](https://livesession.io/)
+* [Mixpanel](https://mixpanel.com/)
+* [Bento](https://bentonow.com/)
 
 ## E-commerce Platforms
 
