@@ -167,7 +167,6 @@ If you would like to contribute to this growing list, please submit a PR.
 
 * [Bonsai](https://hellobonsai.com/)
 * [Upwork](https://www.upwork.com/)
-* [Nick Parsons](https://nickparsons.io/)
 
 ## Website Optimization & SSL
 
