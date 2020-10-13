@@ -58,7 +58,6 @@ If you would like to contribute to this growing list, please submit a PR.
 
 * [Fits.me](https://www.fits.me/)
 * [Idomoo](https://idomoo.com/)
-* [Webyclip](https://www.webyclip.com/)
 * [Sirv](https://www.sirv.com/)
 * [3dbin](https://www.3dbin.com/)
 * [Google Products](https://developers.google.com/search/docs/data-types/products)
