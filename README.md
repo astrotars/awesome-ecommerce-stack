@@ -38,13 +38,13 @@ If you would like to contribute to this growing list, please submit a PR.
 
 ## Live Chat
 
+* [Stream](https://getstream.io/chat/)
 * [Zopim Live Chat](https://www.zopim.com/)
 * [LiveChat](https://www.livechatinc.com/)
 * [BoldChat](https://www.boldchat.com/)
 * [Olark](https://www.olark.com/)
 * [LivePerson](https://www.liveperson.com/)
 * [Live2Support](https://www.live2support.com/)
-* [Tagove Live Chat](https://www.tagove.com/)
 * [SnapEngage](https://snapengage.com/)
 
 ## Advertising
