@@ -152,7 +152,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [3dcart](https://www.3dcart.com/)
 * [Snipcart](https://snipcart.com/)
 * [GrandNode](https://grandnode.com/)
-* [LiveMart](https://livemart.xyz/)
+* [LiveMart](https://livemart.store/)
 
 ## Mobile Experience
 
