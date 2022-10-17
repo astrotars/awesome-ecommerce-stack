@@ -139,6 +139,7 @@ If you would like to contribute to this growing list, please submit a PR.
 ## E-commerce Platforms
 
 * [Shopify](https://www.shopify.com/)
+* [Saleor](https://saleor.io/)
 * [BigCommerce](https://www.bigcommerce.com/)
 * [Big Cartel](https://bigcartel.com/)
 * [Squarespace](https://www.squarespace.com/)
