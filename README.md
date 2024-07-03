@@ -35,6 +35,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Helpscout](https://helpscout.net/)
 * [Intercom](https://intercom.io/)
 * [HappyFox](https://www.happyfox.com/)
+* [HubSpot](https://www.hubspot.com/)
 
 ## Live Chat
 
