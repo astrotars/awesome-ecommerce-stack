@@ -187,6 +187,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Seomator](https://seomator.com/)
 * [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+* [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 
 ## Design
 
