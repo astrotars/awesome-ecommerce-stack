@@ -177,6 +177,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Comodo](https://www.comodo.com/)
 * [Cloudflare](https://cloudflare.com/)
 * [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
+* [PageGuard](https://pageguard.org) - Free website health scanner that checks SEO, accessibility, performance and best practices in a single scan
 
 ## SEO
 
