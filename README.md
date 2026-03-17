@@ -119,6 +119,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Newsblur](https://www.newsblur.com/)
 * [Keyhole.co](https://keyhole.co/)
 * [User Report](https://www.userreport.com/)
+* [StackData — E-Commerce Platform Pricing Dataset](https://greg-rg-git.github.io/stackdata-store/products/ecommerce-platform-pricing) - Structured dataset of pricing tiers across 15+ e-commerce platforms (Shopify, WooCommerce, BigCommerce, etc.) with feature-level comparisons. Useful when evaluating platform selection or benchmarking your own pricing against competitors.
 
 ## Analytics
 
