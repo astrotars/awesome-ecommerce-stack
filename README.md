@@ -62,6 +62,10 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Google Products](https://developers.google.com/search/docs/data-types/products)
 * [aShop](https://ashop.co)
 
+## Product Customisation
+
+* [Sign Customiser](https://www.signcustomiser.com/) - AI-powered sign design and selling platform. Embeds on your site and handles design, pricing, and checkout for custom signage. Used by 700+ shops in 100 countries.
+
 ## Billing
 
 * [Stripe](https://stripe.com/)
