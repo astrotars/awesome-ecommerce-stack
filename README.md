@@ -119,6 +119,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Newsblur](https://www.newsblur.com/)
 * [Keyhole.co](https://keyhole.co/)
 * [User Report](https://www.userreport.com/)
+* [ShopSavvy](https://shopsavvy.com/business) - Competitor price monitoring and pricing intelligence across 70,000+ retailers. API and bulk data also available.
 
 ## Analytics
 
