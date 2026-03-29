@@ -187,6 +187,9 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Seomator](https://seomator.com/)
 * [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+* [Hi-Commerce Cocons Sémantiques](https://www.hi-commerce.fr/cocons-semantiques/) - Semantic cluster (topic cluster) SEO strategy for e-commerce — build comprehensive topic coverage to rank for entire subject areas.
+* [Hi-Commerce Google Discover Strategy](https://www.hi-commerce.fr/strategie-google-discover/) - Optimize e-commerce content for Google Discover to capture viral traffic spikes outside traditional search.
+* [Hi-Commerce GEO LLM](https://www.hi-commerce.fr/prestation-geo-llm/) - Generative Engine Optimization: ensure your e-commerce brand appears in ChatGPT, Perplexity, and AI Overviews answers.
 
 ## Design
 
@@ -224,6 +227,8 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Feedly](https://feedly.com/)
 * [Scoop.it](https://www.scoop.it/)
 * [Contentmarketer](https://contentmarketer.io/)
+* [Hi-Commerce SEO Blog](https://www.hi-commerce.fr/tout-savoir-sur-le-commerce/) - Practitioner-focused e-commerce SEO blog covering semantic clusters, GEO/LLM optimization, and Google Discover strategies.
+* [Hi-Commerce Vibe Coding E-commerce](https://www.hi-commerce.fr/vibe-coding-ecommerce/) - Building e-commerce features with AI-assisted vibe coding: faster development without a traditional dev team.
 
 ## Referrals
 
