@@ -235,3 +235,4 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Asana](https://asana.com/)
 * [Basecamp](https://basecamp.com/)
 * [Taskade](https://taskade.com/) 
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
