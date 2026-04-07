@@ -4,6 +4,7 @@ Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores
 
 If you would like to contribute to this growing list, please submit a PR. 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for e-commerce stack workflow orchestration, automated online store pipeline management, and multi-agent coordination. MIT licensed.
 ## Social Media
 
 * [Hootsweet](https://hootsuite.com/)
