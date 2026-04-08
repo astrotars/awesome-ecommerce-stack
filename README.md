@@ -27,6 +27,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Betaout](https://www.betaout.com/)
 * [Hiver](https://hiverhq.com/)
 * [Good Email Copy](https://www.goodemailcopy.com/)
+* [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 
 ## Customer Support
 
@@ -119,6 +120,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Newsblur](https://www.newsblur.com/)
 * [Keyhole.co](https://keyhole.co/)
 * [User Report](https://www.userreport.com/)
+* [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
 
 ## Analytics
 
