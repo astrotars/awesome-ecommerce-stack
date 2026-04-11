@@ -187,6 +187,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Seomator](https://seomator.com/)
 * [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+* [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin with 9 SEO and Google Ads skills. Pulls Google Search Console and PageSpeed Insights data, rewrites meta tags, generates JSON-LD schema (including Product schema for e-commerce), and ships fixes to WordPress/Strapi/Contentful/Ghost. MIT, 107 stars.
 
 ## Design
 
