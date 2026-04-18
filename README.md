@@ -119,6 +119,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Newsblur](https://www.newsblur.com/)
 * [Keyhole.co](https://keyhole.co/)
 * [User Report](https://www.userreport.com/)
+* [Snaplert](https://snaplert.com) - Website change monitoring for tracking competitor pages, pricing, and product listings with AI-powered visual diffs and email alerts.
 
 ## Analytics
 
