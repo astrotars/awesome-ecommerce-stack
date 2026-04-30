@@ -61,6 +61,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Sirv](https://www.sirv.com/)
 * [Google Products](https://developers.google.com/search/docs/data-types/products)
 * [aShop](https://ashop.co)
+* [igly.ai](https://igly.ai/) - AI-powered image editing platform for background removal, inpainting, upscaling, and generative fill. Perfect for e-commerce product photos. [Demo video →](https://www.youtube.com/watch?v=HB2E1WZ12is)
 
 ## Billing
 
