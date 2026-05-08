@@ -229,6 +229,7 @@ If you would like to contribute to this growing list, please submit a PR.
 
 * [ReferralCandy](https://www.referralcandy.com/)
 - [Channable](https://www.channable.com/)
+* [TradLeap](https://tradeleap.io/)
 
 ## Project Management / Productivity
 
