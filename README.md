@@ -32,6 +32,7 @@ If you would like to contribute to this growing list, please submit a PR.
 
 * [Zendesk](https://zendesk.com/)
 * [Desk](https://desk.com/)
+* [DeskLeap](https://deskleap.io/)
 * [Helpscout](https://helpscout.net/)
 * [Intercom](https://intercom.io/)
 * [HappyFox](https://www.happyfox.com/)
