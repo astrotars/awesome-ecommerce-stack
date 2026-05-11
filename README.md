@@ -205,6 +205,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [ShipWorks](https://www.shipworks.com/)
 * [Shipwire](https://www.shipwire.com/)
 * [ShipLark](https://www.shiplark.com/)
+* [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) - Free packaging fit and DIM-weight planner for comparing cartons and mailers against ecommerce SKU dimensions.
 
 ## Checkout Optimization
 
