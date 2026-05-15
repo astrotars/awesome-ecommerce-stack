@@ -19,6 +19,7 @@ If you would like to contribute to this growing list, please submit a PR.
 
 ## Email Marketing
 
+- [WebCoreLab SEO Audit](https://webcorelab.com) — 272-check ecommerce SEO audit (Core Web Vitals, schema, duplicate content, internal linking, AI visibility). Toronto agency, est. 2014.
 * [SendGrid](https://sendgrid.com/)
 * [MailChimp](https://mailchimp.com/)
 * [Campaign Monitor](https://www.campaignmonitor.com/)
