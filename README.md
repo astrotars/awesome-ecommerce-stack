@@ -235,3 +235,4 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Asana](https://asana.com/)
 * [Basecamp](https://basecamp.com/)
 * [Taskade](https://taskade.com/) 
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools, one-time crypto payment, no subscriptions.
