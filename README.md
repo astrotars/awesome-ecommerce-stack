@@ -234,4 +234,8 @@ If you would like to contribute to this growing list, please submit a PR.
 
 * [Asana](https://asana.com/)
 * [Basecamp](https://basecamp.com/)
-* [Taskade](https://taskade.com/) 
+* [Taskade](https://taskade.com/)
+
+## AI Verification & Trust
+
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
