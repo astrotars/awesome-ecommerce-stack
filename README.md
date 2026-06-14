@@ -138,6 +138,8 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Bento](https://bentonow.com/)
 * [OptimalUX](https://optimalux.com)
 
+* [Ecommerce Profit Tracker PRO](https://limin6661.github.io/ecommerce-profit-tracker/) - Spreadsheet that calculates real net profit per order after fees, ads, and shipping for Etsy, Shopify, Amazon & eBay sellers.
+
 ## E-commerce Platforms
 
 * [Shopify](https://www.shopify.com/)
