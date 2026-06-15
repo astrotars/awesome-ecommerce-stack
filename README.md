@@ -76,6 +76,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [IconoSquare](https://pro.iconosquare.com/)
 * [Link Big](http://www.link-big.com/)
 * [Buffer](https://buffer.com/)
+* [ViewIGStory](https://www.view-ig-story.com/) — Anonymous Instagram story viewer for competitor research; observe how competing stores tell stories without leaving a trace.
 
 ## Facebook
 
