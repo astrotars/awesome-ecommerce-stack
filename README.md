@@ -54,6 +54,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Facebook Ads](https://www.facebook.com/business/)
 * [Adroll](https://www.adroll.com/)
 * [Instagram Ads](https://business.instagram.com/advertising)
+* [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads. Connects to live campaign data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Product Visibility
 
