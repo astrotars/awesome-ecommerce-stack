@@ -58,6 +58,7 @@ If you would like to contribute to this growing list, please submit a PR.
 ## Product Visibility
 
 * [Idomoo](https://idomoo.com/)
+* [igly.ai](https://igly.ai/) - AI image editor for e-commerce product photos, including background removal, inpainting, upscaling, and generative fill.
 * [Sirv](https://www.sirv.com/)
 * [Google Products](https://developers.google.com/search/docs/data-types/products)
 * [aShop](https://ashop.co)
