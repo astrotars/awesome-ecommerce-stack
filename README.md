@@ -224,6 +224,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Feedly](https://feedly.com/)
 * [Scoop.it](https://www.scoop.it/)
 * [Contentmarketer](https://contentmarketer.io/)
+* [Riffkit](https://riffkit.ai/)
 
 ## Referrals
 
