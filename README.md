@@ -211,6 +211,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [BuzzSumo](https://buzzsumo.com/)
 * [Square Up](https://www.squareup.com/)
 * [SumoMe](https://sumome.com/)
+* [Tillkiln](https://tillkiln.com/) - Self-serve Shopify checkout/discount leak scanner (dead collection URLs, stacking traps); free top-3 scan.
 
 ## Blogs
 
