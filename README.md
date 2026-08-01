@@ -106,6 +106,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Google My Business](https://www.google.com/business/)
 * [eRated](https://www.erated.co/)
 * [TurnTo](https://www.turntonetworks.com/)
+* [Shopify App Review Triage Worksheet](https://alfredtech2026.github.io/shopify-app-review-brief/tools/review-triage-worksheet.html?utm_source=awesome-ecommerce-stack&utm_medium=resource-directory&utm_campaign=inbound-validation)
 
 ## Competitive & User Research
 
