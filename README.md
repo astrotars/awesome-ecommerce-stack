@@ -235,3 +235,4 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Asana](https://asana.com/)
 * [Basecamp](https://basecamp.com/)
 * [Taskade](https://taskade.com/) 
+- [WeekLife](https://letmethink.cc/app/weeklife/) - A lightweight life check-in tool for reclaiming everyday life beyond work.
