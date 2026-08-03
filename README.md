@@ -1,4 +1,5 @@
 # Awesome E-commerce Stack
+- [ReviewPilot](https://lijustin655.github.io/review-pilot/) - Free AI review analysis for e-commerce sellers. Paste product reviews, get top complaint reasons, sentiment breakdown, and improvement actions in 30 seconds.
 
 Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores. 💰
 
