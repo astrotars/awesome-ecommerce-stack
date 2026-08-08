@@ -101,6 +101,7 @@ If you would like to contribute to this growing list, please submit a PR.
 
 ## User Reviews
 
+* [ReviewReply](https://joinreviewreply.com) - free AI-generated replies to Google/Yelp/TripAdvisor reviews, no signup required
 * [PowerReviews](https://www.powerreviews.com/)
 * [Yotpo](https://www.yotpo.com/)
 * [Google My Business](https://www.google.com/business/)
