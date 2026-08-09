@@ -185,6 +185,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [SEMRush](https://www.semrush.com/)
 * [SEO Site Cleanup](https://seositecheckup.com/)
 * [Seomator](https://seomator.com/)
+* [ContentBase](https://contentbase-crw.pages.dev/) - Free AI tool for optimizing Etsy, Shopify, and Amazon listing titles, descriptions, and tags for SEO
 * [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 
