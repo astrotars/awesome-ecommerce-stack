@@ -10,7 +10,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Tweetdeck](https://tweetdeck.com/)
 * [Buffer](https://buffer.com/)
 * [Bit.ly](https://bit.ly/)
-* [SproutSocial](http://sproutsocial.com/)
+* [SproutSocial](https://sproutsocial.com/)
 * [Agorapulse](http://www.agorapulse.com/)
 * [Sprinklr](http://www.agorapulse.com/)
 * [Dlvr.it](https://dlvr.it/)
@@ -98,6 +98,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Trendsmap](https://www.trendsmap.com/)
 * [Crowdfire](https://crowdfireapp.com/)
 * [Buffer](https://buffer.com/)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## User Reviews
 
