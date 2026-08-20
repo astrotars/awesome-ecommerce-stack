@@ -54,6 +54,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Facebook Ads](https://www.facebook.com/business/)
 * [Adroll](https://www.adroll.com/)
 * [Instagram Ads](https://business.instagram.com/advertising)
+* [AdMapix](https://www.admapix.com/) - Research competitor ad creatives and market signals across ecommerce, apps, and mobile games.
 
 ## Product Visibility
 
