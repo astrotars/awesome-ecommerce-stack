@@ -68,6 +68,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Recurly](https://recurly.com/)
 * [Braintree](https://www.braintreepayments.com/)
 * [Chargify](https://www.chargify.com/)
+* [CryptoPaywall](https://github.com/ShavitR/cryptopaywall)
 * [Chargebee](https://www.chargebee.com/)
 
 ## Instagram
