@@ -27,6 +27,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Betaout](https://www.betaout.com/)
 * [Hiver](https://hiverhq.com/)
 * [Good Email Copy](https://www.goodemailcopy.com/)
+* [InboxProof](https://inboxproof-phi.vercel.app/) - Free email deliverability audit: SPF, DKIM, DMARC, TLS, IP reputation with a spam-risk score
 
 ## Customer Support
 
