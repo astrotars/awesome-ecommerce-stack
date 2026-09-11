@@ -196,6 +196,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Sketch](https://www.sketchapp.com/)
 * [Code My UI](https://codemyui.com/)
 * [Beautiful Stores](https://beautifulstores.com/)
+* [RemoveColor](https://removecolor.online/) - Free browser tool that removes a specific color (e.g. white/solid product-photo backgrounds) and makes it transparent; runs locally, no uploads
 
 ## Fulfillment
 
