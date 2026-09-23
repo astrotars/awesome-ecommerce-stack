@@ -9,6 +9,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Hootsweet](https://hootsuite.com/)
 * [Tweetdeck](https://tweetdeck.com/)
 * [Buffer](https://buffer.com/)
+* [SocialRoster](https://socialroster.dev) - Social media scheduler for TikTok, Instagram, YouTube, and Facebook with bulk upload and calendar scheduling.
 * [Bit.ly](https://bit.ly/)
 * [SproutSocial](http://sproutsocial.com/)
 * [Agorapulse](http://www.agorapulse.com/)
