@@ -114,6 +114,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [MozBar](https://moz.com/tools/seo-toolbar)
 * [SimilarWeb](https://www.similarweb.com/)
 * [StaySavy](https://staysavy.com/)
+* [StackPeek](https://stackpeek.app/) - Browser extension that identifies a Shopify storefront's theme and installed apps.
 * [Google Alerts](https://www.google.com/alerts)
 * [TalkWalker](https://www.talkwalker.com/)
 * [Newsblur](https://www.newsblur.com/)
