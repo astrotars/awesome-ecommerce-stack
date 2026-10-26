@@ -69,6 +69,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Braintree](https://www.braintreepayments.com/)
 * [Chargify](https://www.chargify.com/)
 * [Chargebee](https://www.chargebee.com/)
+* [Level Ecommerce CFO & Benchmarks](https://levelcfo.com/benchmarks/ecommerce/) — Open ecommerce financial benchmarks (Cash Conversion Cycle, Return Rate, Contribution Margin) and Shopify/Finaloop/Settle/QuickBooks reconciliation tools ([GitHub](https://github.com/levelcfo/open-finance-skills)).
 
 ## Instagram
 
