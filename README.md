@@ -205,6 +205,8 @@ If you would like to contribute to this growing list, please submit a PR.
 * [ShipWorks](https://www.shipworks.com/)
 * [Shipwire](https://www.shipwire.com/)
 * [ShipLark](https://www.shiplark.com/)
+* [AQX Logistics](https://aqxlogistics.com) - Direct air cargo forwarding and export fulfillment from Los Angeles (LAX) to the GCC, Europe & worldwide with 0% California sales tax locker, volumetric repacking, and open [Public Rate API](https://aqxlogistics.com/api/rates).
+
 
 ## Checkout Optimization
 
