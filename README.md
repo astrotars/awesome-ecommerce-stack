@@ -94,6 +94,7 @@ If you would like to contribute to this growing list, please submit a PR.
 ## Twitter
 
 * [Ritetag](https://ritetag.com/)
+* [twtData](https://twtdata.com/download-twitter-followers/)
 * [Tagboard](https://tagboard.com/)
 * [Trendsmap](https://www.trendsmap.com/)
 * [Crowdfire](https://crowdfireapp.com/)
