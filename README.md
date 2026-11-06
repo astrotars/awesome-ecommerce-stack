@@ -27,6 +27,7 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Betaout](https://www.betaout.com/)
 * [Hiver](https://hiverhq.com/)
 * [Good Email Copy](https://www.goodemailcopy.com/)
+* [Nexie](https://nexie.ai/)
 
 ## Customer Support
 
