@@ -50,6 +50,7 @@ If you would like to contribute to this growing list, please submit a PR.
 
 ## Advertising
 
+* [AdVariq](https://advariq.com/)
 * [Google AdWords](https://adwords.google.com/)
 * [Facebook Ads](https://www.facebook.com/business/)
 * [Adroll](https://www.adroll.com/)
