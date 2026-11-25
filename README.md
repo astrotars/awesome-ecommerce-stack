@@ -137,6 +137,8 @@ If you would like to contribute to this growing list, please submit a PR.
 * [Mixpanel](https://mixpanel.com/)
 * [Bento](https://bentonow.com/)
 * [OptimalUX](https://optimalux.com)
+* [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+* [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
 
 ## E-commerce Platforms
 
